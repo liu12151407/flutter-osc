@@ -9,3 +9,7 @@ build/
 .flutter-plugins
 
 .idea/workspace.xml
+.idea/workspace.xml
+.idea/libraries/Flutter_Plugins.xml
+.idea/libraries/Dart_SDK.xml
+.idea/libraries/Dart_Packages.xml
